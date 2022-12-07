@@ -1,3 +1,8 @@
+# v1.0.1 - 20221207
+* [rs-06] Remove text nal on sample file
+[PR#08] (https://github.com/rs-nhattt/git-rebase-v3/pull/8)
+
+
 # v1.0.0 - 20221207
 
 * [rs-04] Remove text est on sample file
